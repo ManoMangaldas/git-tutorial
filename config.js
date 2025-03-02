@@ -1,7 +1,2 @@
 console.log("config.js");
-console.log("version: 13");
-//# sourceMappingURL=index.js.map
-//# sourceMappingURL=index.js.map
-// new test text
-// new test test
-// this is a push from terminal
+console.log("version: 14");
